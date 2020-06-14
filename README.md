@@ -3,7 +3,7 @@
 ## empfohlene Layerhöhen für easyPrint-Dateien
 Alle Bereiche werden mit 0.1mm empfohlen
 - Maincase: 4.8-5.6mm und 5.8-6.6mm
-- Batterie-Sensor-Holder:
+- Batterie-Sensor-Holder: 6.8-7.6mm
 - OBS-D-001-V1_easyPrint: 3.6-4.3mm
 
 ## Was ist easyPrint?
